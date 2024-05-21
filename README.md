@@ -1,4 +1,4 @@
-## 👋 Hi, I’m Eng.Emana Alzaanin
+## 👋 Hi, I’m Eng.Eman Alzaanin
 - 👀 I’m interested in software Engineering
 - 🌱 I’m currently learning a front end web developer (Html, CSS, JS, Bootstrap, PHP, MySQL)
 - 💞️ I’m looking to collaborate on your Project 
